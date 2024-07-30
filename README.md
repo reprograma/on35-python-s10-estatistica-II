@@ -25,7 +25,7 @@ Antes de começar, vamos organizar nosso setup.
 
 ## Índice
 
-Todo o contéudo está na pasta **[material]()**:
+Todo o contéudo está na pasta **[material](https://github.com/reprograma/on35-python-s10-estatistica-II/tree/main/material)**:
 
 1. **Testes de Hipóteses**
 
