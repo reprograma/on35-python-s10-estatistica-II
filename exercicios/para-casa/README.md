@@ -1,10 +1,31 @@
 # Exercício de Casa 🏠 
 
-## Nome do Exercicio
+## Teste de Hipótese
 
-- Explicação do exercício: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci.
-Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. 
+Coletar a altura média de cada uma das alunas, excluindo as alturas da
+ Professora, Facilitaroa e Monitora.
+
+**Exercício: Teste z para Altura Média da Turma**
+
+**Cenário:**
+
+Queremos avaliar se a altura média da turma on35 é significativamente diferente da altura média nacional da população feminina brasileira, que é de 160 cm. 
+
+**Objetivo:**
+
+    Verificar se a altura média da turma é significativamente diferente de 160 cm.
+
+**Dados da Amostra:**
+
+    Altura da turma (em cm): [158, 162, 161, 159, 164, 165, 157, 160, 163, 161, 159, 162, 158, 160, 161]
+
+
+**Perguntas:**
+
+
+Calcule a estatística *z* e o valor *p* para verificar se a altura média da turma é significativamente diferente de 160 cm.
+
+**Interprete os resultados:** Preciso saber se rejeitou ou não a hipótese nula.
 ---
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
