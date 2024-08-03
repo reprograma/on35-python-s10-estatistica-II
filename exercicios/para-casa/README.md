@@ -17,7 +17,7 @@ Queremos avaliar se a altura média da turma on35 é significativamente diferent
 
 **Dados da Amostra:**
 
-    Altura da turma (em cm): [158, 162, 161, 159, 164, 165, 157, 160, 163, 161, 159, 162, 158, 160, 161]
+    Altura da turma (em cm): vamos criar juntas na aula...
 
 
 **Perguntas:**
