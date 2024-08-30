@@ -9,7 +9,7 @@ Coletar a altura média de cada uma das alunas, excluindo as alturas da
 
 **Cenário:**
 
-Queremos avaliar se a altura média da turma on35 é significativamente diferente da altura média nacional da população feminina brasileira, que é de 160 cm. 
+Queremos avaliar se a altura média da turma on35 é significativamente diferente da altura média nacional da população feminina brasileira, que é de 161 cm. 
 
 **Objetivo:**
 
@@ -23,7 +23,7 @@ Queremos avaliar se a altura média da turma on35 é significativamente diferent
 **Perguntas:**
 
 
-Calcule a estatística *z* e o valor *p* para verificar se a altura média da turma é significativamente diferente de 160 cm.
+Calcule a estatística *z* e o valor *p* para verificar se a altura média da turma é significativamente diferente de 161 cm.
 
 **Interprete os resultados:** Preciso saber se rejeitou ou não a hipótese nula.
 ---
