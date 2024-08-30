@@ -13,12 +13,11 @@ Queremos avaliar se a altura média da turma on35 é significativamente diferent
 
 **Objetivo:**
 
-    Verificar se a altura média da turma é significativamente diferente de 160 cm.
+    Verificar se a altura média da turma é significativamente diferente de 161 cm.
 
 **Dados da Amostra:**
 
-    Altura da turma (em cm): vamos criar juntas na aula...
-
+    Altura da turma (em cm): [157, 160, 157, 163, 170, 167, 174, 160, 169, 158, 161, 168, 162, 167, 167, 165, 170, 170]
 
 **Perguntas:**
 
