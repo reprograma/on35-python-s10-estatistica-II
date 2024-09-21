@@ -1,3 +1,17 @@
+Objetivo:
+
+Verificar se a altura média da turma é significativamente diferente de 161 cm.
+Dados da Amostra:
+
+Altura da turma (em cm): [165,157,163,170,167,161,160,170,157,160,157,168,162,170,167,165,166,158,174,169,163,174,162,170,155,154,158,160,166]
+Perguntas:
+
+Calcule a estatística z e o valor p para verificar se a altura média da turma é significativamente diferente de 161 cm.
+
+Interprete os resultados: Preciso saber se rejeitou ou não a hipótese nula.
+
+
+
 ```python
 import numpy as np
 from statsmodels.stats.weightstats import ztest
